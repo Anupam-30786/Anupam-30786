@@ -35,7 +35,6 @@
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 💻 I love creating stunning websites using React, JS, Express and MongoDB.
-- 📓 I was a student of [JC Bose(YMCA) University](https://jcboseust.ac.in/).
 - 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DSA** everyday.
 - 💬 I’m looking forward to contributing to **Open Source Projects**.
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
