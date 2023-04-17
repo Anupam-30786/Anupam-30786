@@ -13,13 +13,13 @@
 
 - 💬 Ask me about **JAVA Programming and DSA solving techniques**
 
-- 📫 How to reach me **dubeyanand7379@gmail.com**
+- 📫 How to reach me **anupamsingh344.sne@gmail.com**
 
-- ⚡ Fun fact **I love Singing and Playing Guitar**
+- ⚡ Fun fact **I love to play Cricket and Volleyball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/dubeyanand7379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dubeyanand7379" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/[Anupam8786](https://leetcode.com/Anupam8786/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dubeyanand7379" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dubeyanand865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dubeyanand865" height="30" width="40" /></a>
 </p>
 
