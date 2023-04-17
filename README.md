@@ -1,33 +1,155 @@
-[![MasterHead](https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif)](https://ananddubey1999.io)
-<h1 align="center">Hi 👋, I'm Anupam Singh</h1>
-<h3 align="center">A passionate Web Developer, Java developer,and Full-Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;Welcome+to+my+Github....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<h1 align="center">
+  <br>
+  I'm Anupam Singh <img src="./images/hi.gif" width="30px" height="30px">
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananddubey1999&label=Profile%20views&color=0e75b6&style=flat" alt="ananddubey1999" /> </p>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/anupam-singh0802/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/Anupam8786/" title="LeetCode Profile"><img width="22" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"> LeetCode</a></code>
+ 
+</h5>
+<h5 align="center">
+  <code><a href="https://superbportfolio.netlify.app/" title="Portfolio"> 👑Portfolio👑</a></code>
+</h5>
+<br>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 🤝 I’m looking for help with **Java Project (Frontend & Backend)**
-
-- 💬 Ask me about **JAVA Programming and DSA solving techniques**
-
-- 📫 How to reach me **anupamsingh344.sne@gmail.com**
-
-- ⚡ Fun fact **I love to play Cricket and Volleyball**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="(https://leetcode.com/Anupam8786/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Anupam8786" height="30" width="40" /></a>
-
+<!-- Counter -->
+<p align="center">
+  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rahul12Arora&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="center">
+  <b>I'm a passionate programmer who loves to code</b>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anupam-30786&show_icons=true&locale=en&layout=compact" alt="Anupam Singh" /></p>
+<p align="center">
+  <img src="./images/coding.gif" width="300">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anupam-30786&show_icons=true&locale=en" alt="Anupam Singh" /></p>
+- ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
+- 💻 I love creating stunning websites using React, JS, Express and MongoDB.
+- 📓 I was a student of [JC Bose(YMCA) University](https://jcboseust.ac.in/).
+- 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DSA** everyday.
+- 💬 I’m looking forward to contributing to **Open Source Projects**.
+- Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anupam-30786&" alt="Anupam Singh" /></p>
+<!-- Tech stack -->
+<h2>Tech stack 🔭</h2>
+<p align="center">
+  <b>Languages</b>
+  <br>
+  <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <code><img src="./images/java.svg" alt="Java" height="40"/></code>
+  </a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <b>Frontend</b>
+  <br>
+  <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <code><img src="./images/html.svg" alt="HTML" height="40"/></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <code><img src="./images/css.svg" alt="CSS" height="40"/></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
+  </a>
+  <br>
+  <a href="https://reactjs.org" target="_blank">
+    <code><img src="./images/react.svg" alt="ReactJS" height="40"/></code>
+  </a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <b>Backend</b>
+  <br>
+  <br>
+  <a href="https://nodejs.org" target="_blank">
+    <code><img src="./images/node.svg" alt="NodeJS" height="40"/></code>
+  </a>
+  <br>
+  <a href="https://expressjs.com" target="_blank">
+    <code><img src="./images/express.svg" alt="ExpressJS" height="40"/></code>
+  </a>
+  <br>
+  <a href="https://mongodb.com" target="_blank">
+    <code><img src="./images/mongodb.svg" alt="MongoDB" height="40"/></code>
+  </a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <b>System</b>
+  <br>
+  <br>
+  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
+    <code><img src="./images/windows.svg" alt="Windows" height="40"/></code>
+  </a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <b>Other</b>
+  <br>
+  <br>
+  <a href="https://www.electronjs.org" target="_blank">
+    <code><img src="./images/electron.svg" alt="ElectronJS" height="40"/></code>
+  </a>
+</p>
+
+<!-- My activity -->
+<h2>My activity <img src="./images/github-stats.gif" height="35px"></h2>
+<details> 
+  <summary><b>💻 Profile Stats</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul12Arora&layout=compact&theme=dark" alt="Most used languages" height="192px"/>
+    <br>
+	  <img src="https://github-readme-stats.vercel.app/api?username=Rahul12Arora&show_icons=true&icon_color=ffffff&theme=dark" alt="Rahul12Arora's Github Stats" height="192px"/>
+    <br>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <br>
+    <br>
+    <img src="https://leetcode.card.workers.dev/?username=rahul12arora&theme=dark" alt="rahul12arora's LeetCode Stats" height="192px"/>
+  </p>
+</details>
+<details>
+  <summary><b>⚡ GitHub Contribution</b></summary>
+  <br>
+  <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rahul12Arora&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
+  <br>
+</details>
+
+<!-- Connection -->
+<h2> Connect with me <img src="./images/handshake.gif" height="35px"></h2>
+<p align="center">
+  <a href="https://www.instagram.com/chirpings/" target="_blank">
+    <code><img src="./images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
+  </a>
+  <a href="https://www.instagram.com/chirpings/" target="_blank">
+    <code><img src="./images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
+  </a>
+</p>
