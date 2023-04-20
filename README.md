@@ -125,8 +125,7 @@
   <summary><b>💻 Profile Stats</b></summary>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam-30786
-&layout=compact&theme=dark" alt="Most used languages" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam-30786&layout=compact&theme=dark" alt="Most used languages" height="192px"/>
     <br>
 	  <img src="https://github-readme-stats.vercel.app/api?username=Anupam-30786&show_icons=true&icon_color=ffffff&theme=dark" alt="Anupam-30786's Github Stats" height="192px"/>
     <br>
