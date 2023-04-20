@@ -143,5 +143,3 @@
   <br>
 </details>
 
-<!-- Connection -->
-<h2> Connect with me <img src="./images/handshake.gif" height="35px"></h2>
