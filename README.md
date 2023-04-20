@@ -125,20 +125,23 @@
   <summary><b>💻 Profile Stats</b></summary>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul12Arora&layout=compact&theme=dark" alt="Most used languages" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam-30786
+&layout=compact&theme=dark" alt="Most used languages" height="192px"/>
     <br>
-	  <img src="https://github-readme-stats.vercel.app/api?username=Rahul12Arora&show_icons=true&icon_color=ffffff&theme=dark" alt="Rahul12Arora's Github Stats" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api?username=Anupam-30786&show_icons=true&icon_color=ffffff&theme=dark" alt="Anupam-30786's Github Stats" height="192px"/>
     <br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     <br>
     <br>
-    <img src="https://leetcode.card.workers.dev/?username=rahul12arora&theme=dark" alt="rahul12arora's LeetCode Stats" height="192px"/>
+    <img src="https://leetcode.card.workers.dev/?username=Anupam8786&theme=dark" alt="Anupam8786
+'s LeetCode Stats" height="192px"/>
   </p>
 </details>
 <details>
   <summary><b>⚡ GitHub Contribution</b></summary>
   <br>
-  <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rahul12Arora&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
+  <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anupam-30786
+&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
   <br>
 </details>
 
