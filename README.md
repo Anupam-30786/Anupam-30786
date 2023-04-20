@@ -33,7 +33,7 @@
   <img src="./images/coding.gif" width="300">
 </p>
 
-- ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
+- ♑ I have an experience of one year with MERN stack. I love exploring new technologies and currently learning new skills.
 - 💻 I love creating stunning websites using React, JS, Express and MongoDB.
 - 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DSA** everyday.
 - 💬 I’m looking forward to contributing to **Open Source Projects**.
