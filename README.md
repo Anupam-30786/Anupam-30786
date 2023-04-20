@@ -147,11 +147,3 @@
 
 <!-- Connection -->
 <h2> Connect with me <img src="./images/handshake.gif" height="35px"></h2>
-<p align="center">
-  <a href="https://www.instagram.com/chirpings/" target="_blank">
-    <code><img src="./images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
-  </a>
-  <a href="https://www.instagram.com/chirpings/" target="_blank">
-    <code><img src="./images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
-  </a>
-</p>
